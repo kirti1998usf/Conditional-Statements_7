@@ -11,11 +11,14 @@ Console.WriteLine("Please enter a Sales Amount ...");
 /*
     Use the try catch block to validate user input.
     If the user provides bad input, the catch block
+helllllllllllllllllllllllllllllllllllllllllo
+backkkkkkkkkkkkkkkkkkkk
     will handle the error and a message will be displayed.
 */
 try
 {
     // This variable will gather the user input
+    //Github push demo
     string input = Console.ReadLine();
     /* 
         This variable will be used to store sales
